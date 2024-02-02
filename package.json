@@ -1,0 +1,24 @@
+{
+  "name": "create-nrv-template",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "ora": "^8.0.1"
+  },
+  "bin": {
+    "create-nrv-template": "./install.mjs"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "mongodb",
+    "graphql",
+    "typescript",
+    "apollo",
+    "eslint",
+    "prettier",
+    "javascript"
+  ],
+  "author": "LvothNrv",
+  "license": "MIT"
+}
