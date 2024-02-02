@@ -12,8 +12,9 @@ Welcome to my Nrv template ! This template is designed to allow you to quickly c
 
 ## Features
 
-- Well-thought-out folder architecture for optimal code organization.
 - Ready-to-use configurations for a smooth development experience.
+- Authentication system already present in the template, allowing users to create an account, log in, with authentication middleware included.
+- Well-thought-out folder architecture for optimal code organization.
 - TypeScript support for static type checking and better code documentation.
 
 ## How to Use
@@ -40,4 +41,4 @@ Welcome to my Nrv template ! This template is designed to allow you to quickly c
 
 ## Contribution
 
-Contributions are welcome! Feel free to open an issue to report a bug or propose a feature request.
+Contributions are welcome ! Feel free to open an issue to report a bug or propose a feature request.
