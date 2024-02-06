@@ -6,7 +6,7 @@
     "ora": "^8.0.1"
   },
   "bin": {
-    "create-nrv-template": "./install.mjs"
+    "create-nrv-template": "install.mjs"
   },
   "keywords": [
     "api",
@@ -25,6 +25,13 @@
   "homepage": "https://github.com/lvothnrv/nrv-template#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lvothnrv/nrv-template.git"
+    "url": "git+https://github.com/lvothnrv/nrv-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lvothnrv/nrv-template/issues"
+  },
+  "main": "install.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
