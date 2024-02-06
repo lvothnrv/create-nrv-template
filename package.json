@@ -1,7 +1,7 @@
 {
   "name": "create-nrv-template",
   "version": "0.0.1",
-  "description": "",
+  "description": "Designed to enable you to quickly build a robust and efficient backend API using powerful technologies.",
   "dependencies": {
     "ora": "^8.0.1"
   },
@@ -17,8 +17,14 @@
     "apollo",
     "eslint",
     "prettier",
-    "javascript"
+    "javascript",
+    "template"
   ],
   "author": "LvothNrv",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/lvothnrv/nrv-template#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lvothnrv/nrv-template.git"
+  }
 }
